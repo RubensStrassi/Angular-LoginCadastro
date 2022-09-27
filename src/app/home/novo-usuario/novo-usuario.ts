@@ -1,6 +1,6 @@
 export interface NovoUsuario {
-  userName: string,
-  email: string,
-  fullName: string,
-  passworld: string
+  userName: string;
+  email: string;
+  fullName: string;
+  password: string;
 }
